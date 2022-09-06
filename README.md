@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 [![Twitter: OscarCorona](https://img.shields.io/twitter/follow/OscarBCorona?style=social)](https://twitter.com/OscarBCorona)
-[![Linkedin: OscarCorona](https://img.shields.io/badge/-oscarabcorona-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oscarabcorona/)](https://www.linkedin.com/in/oscarabcorona/)
-[![GitHub OscarCorona](https://img.shields.io/github/)](https://github.com/Aquil3sVoy)
+[![Linkedin: OscarCorona](https://img.shields.io/badge/-oscarabcorona-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oscarabcorona/)](https://www.linkedin.com/in/oscarabcorona/) 
 
 ```javascript
 
