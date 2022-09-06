@@ -2,7 +2,7 @@
 
 [![Twitter: OscarCorona](https://img.shields.io/twitter/follow/OscarBCorona?style=social)](https://twitter.com/OscarBCorona)
 [![Linkedin: OscarCorona](https://img.shields.io/badge/-oscarabcorona-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oscarabcorona/)](https://www.linkedin.com/in/oscarabcorona/)
-[![GitHub OscarCorona](https://img.shields.io/github/followers/Aquil3sVoy?label=follow&style=social)](https://github.com/Aquil3sVoy)
+[![GitHub OscarCorona]](https://github.com/Aquil3sVoy)
 
 ```javascript
 
