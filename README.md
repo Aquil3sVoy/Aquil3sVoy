@@ -23,6 +23,7 @@ const aboutMe = {
    },
    currentOccupation: ["Open for job opportunities"], 
 };
+- 🔭 I’m currently working on Ecorona LLC
 ```
 
 <!--
